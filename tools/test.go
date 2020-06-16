@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/panjjo/flysnow/utils"
-	"github.com/panjjo/go-flysnow"
+	"github.com/HuiOnePos/flysnow/utils"
+	"github.com/HuiOnePos/go-flysnow"
 	"sync"
 	"time"
 )

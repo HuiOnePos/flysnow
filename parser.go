@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/panjjo/flysnow/models"
-	"github.com/panjjo/flysnow/utils"
+	"github.com/HuiOnePos/flysnow/models"
+	"github.com/HuiOnePos/flysnow/utils"
 	"github.com/spf13/viper"
 	"io/ioutil"
 	"os"

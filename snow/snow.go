@@ -1,8 +1,8 @@
 package snow
 
 import (
-	"github.com/panjjo/flysnow/models"
-	"github.com/panjjo/flysnow/utils"
+	"github.com/HuiOnePos/flysnow/models"
+	"github.com/HuiOnePos/flysnow/utils"
 	"github.com/sirupsen/logrus"
 	"strconv"
 	"sync"

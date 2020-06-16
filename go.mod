@@ -1,4 +1,4 @@
-module github.com/panjjo/flysnow
+module github.com/HuiOnePos/flysnow
 
 go 1.14
 

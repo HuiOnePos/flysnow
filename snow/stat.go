@@ -6,8 +6,8 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/panjjo/flysnow/models"
-	"github.com/panjjo/flysnow/utils"
+	"github.com/HuiOnePos/flysnow/models"
+	"github.com/HuiOnePos/flysnow/utils"
 	"github.com/sirupsen/logrus"
 
 	"gopkg.in/mgo.v2/bson"

@@ -1,7 +1,7 @@
 package utils
 
 import (
-	"github.com/panjjo/flysnow/models"
+	"github.com/HuiOnePos/flysnow/models"
 	"github.com/sirupsen/logrus"
 )
 

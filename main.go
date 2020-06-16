@@ -1,12 +1,12 @@
-package main // import github.com/panjjo/flysnow
+package main // import github.com/HuiOnePos/flysnow
 
 import (
 	"net/http"
 	_ "net/http/pprof"
 
-	"github.com/panjjo/flysnow/fly"
-	"github.com/panjjo/flysnow/tmp"
-	"github.com/panjjo/flysnow/utils"
+	"github.com/HuiOnePos/flysnow/fly"
+	"github.com/HuiOnePos/flysnow/tmp"
+	"github.com/HuiOnePos/flysnow/utils"
 	"github.com/sirupsen/logrus"
 )
 

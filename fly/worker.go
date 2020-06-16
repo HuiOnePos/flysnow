@@ -4,10 +4,10 @@ import (
 	"sync"
 
 	"github.com/garyburd/redigo/redis"
-	"github.com/panjjo/flysnow/models"
-	"github.com/panjjo/flysnow/snow"
-	instance "github.com/panjjo/flysnow/tmp"
-	"github.com/panjjo/flysnow/utils"
+	"github.com/HuiOnePos/flysnow/models"
+	"github.com/HuiOnePos/flysnow/snow"
+	instance "github.com/HuiOnePos/flysnow/tmp"
+	"github.com/HuiOnePos/flysnow/utils"
 	"github.com/sirupsen/logrus"
 )
 

@@ -3,9 +3,9 @@ package main
 import (
 	"fmt"
 	"github.com/panjf2000/ants"
-	"github.com/panjjo/flysnow/models"
-	"github.com/panjjo/flysnow/tmp"
-	"github.com/panjjo/flysnow/utils"
+	"github.com/HuiOnePos/flysnow/models"
+	"github.com/HuiOnePos/flysnow/tmp"
+	"github.com/HuiOnePos/flysnow/utils"
 	"github.com/sirupsen/logrus"
 	"gopkg.in/mgo.v2/bson"
 	"time"

@@ -3,8 +3,8 @@ package snow
 import (
 	"fmt"
 
-	"github.com/panjjo/flysnow/models"
-	"github.com/panjjo/flysnow/utils"
+	"github.com/HuiOnePos/flysnow/models"
+	"github.com/HuiOnePos/flysnow/utils"
 
 	"gopkg.in/mgo.v2/bson"
 )

@@ -5,7 +5,7 @@ import (
 	"path/filepath"
 	"sync"
 
-	"github.com/panjjo/flysnow/utils/btree"
+	"github.com/HuiOnePos/flysnow/utils/btree"
 	"github.com/sirupsen/logrus"
 )
 

@@ -4,7 +4,7 @@ import (
 	"sync"
 
 	"github.com/panjf2000/ants"
-	"github.com/panjjo/flysnow/utils"
+	"github.com/HuiOnePos/flysnow/utils"
 	"github.com/robfig/cron"
 	"github.com/sirupsen/logrus"
 )
